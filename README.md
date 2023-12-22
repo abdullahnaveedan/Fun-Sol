@@ -63,18 +63,18 @@ The project is structured as follows:
 
 ### Importing Course Information
 
-1. Navigate to the 'Upload Course CSV' page in the Django Admin.
+1. Navigate to the 'Upload Course CSV'.
 2. Choose a CSV file containing course information.
 3. Click 'Upload.'
 
 ### Exporting Student Information
 
-1. Navigate to the 'Student Info' page in the Django Admin.
+1. Navigate to the 'Student Info'.
 2. Select the students you want to export.
 3. Click 'Export Selected' to download a CSV file.
 
 ### Exporting Course Information
 
-1. Navigate to the 'Course' page in the Django Admin.
+1. Navigate to the 'Course'.
 2. Select the courses you want to export.
 3. Click 'Export Selected' to download a CSV file.
