@@ -15,7 +15,7 @@ The project is structured as follows:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/abdullahnaveedan/Fun-Sol
     ```
 
 2. Create a virtual environment and install dependencies:
@@ -23,7 +23,7 @@ The project is structured as follows:
     ```bash
     cd your-repo
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    myenv\Scripts\activate
     pip install -r requirements.txt
     ```
 
